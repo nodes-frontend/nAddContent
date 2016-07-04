@@ -1,5 +1,6 @@
 {
   "name": "n-add-content",
+  "version": "0.0.0-semantically-released",
   "description": "Angular 1.x component which adds content by ex. click on a button",
   "main": "index.js",
   "scripts": {
