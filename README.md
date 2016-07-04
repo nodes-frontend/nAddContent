@@ -1,7 +1,7 @@
 # nAddContent
 Add's content based on specified template
 
-![Screencapture GIF](https://raw.githubusercontent.com/nodes-frontend/nReplaceWithValidation/master/demo.gif)
+![Screencapture GIF](https://raw.githubusercontent.com/nodes-frontend/nAddContent/master/demo.gif)
 
 # Getting started
 ```bash
