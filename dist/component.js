@@ -25,7 +25,7 @@ $__System.register("3", [], function(exports_1, context_1) {
       var nAddContent;
       (function(nAddContent) {
         'use strict';
-        var dependencies = [];
+        var dependencies = ['templates'];
         angular.module('nAddContent', dependencies);
       })(nAddContent || (nAddContent = {}));
     }
