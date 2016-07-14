@@ -8,7 +8,7 @@ $__System.register("2", [], function(exports_1, context_1) {
   return {
     setters: [],
     execute: function() {
-      exports_1("default", angular.module("templates", []).run(["$templateCache", function($templateCache) {
+      exports_1("default", angular.module("nAddContent.templates", []).run(["$templateCache", function($templateCache) {
         $templateCache.put("src/container/nAddContentContainer.html", "<div class=\"nAddContentContainer\">\n\n    <div uuid=\"{{nAddContentItem.uuid}}\" ng-include=\"nAddContentItem.template\" ng-repeat=\"nAddContentItem in NAddContentContainer.items\">\n        <p>{{item}}</p>\n    </div>\n\n</div>");
       }]));
     }
@@ -25,7 +25,7 @@ $__System.register("3", [], function(exports_1, context_1) {
       var nAddContent;
       (function(nAddContent) {
         'use strict';
-        var dependencies = ['templates'];
+        var dependencies = ['nAddContent.templates'];
         angular.module('nAddContent', dependencies);
       })(nAddContent || (nAddContent = {}));
     }

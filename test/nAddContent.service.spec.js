@@ -13,7 +13,7 @@ describe('NAddContentService', () => {
 	const itemUUIDRequiredError 	= 'Item uuid is required!!!';
 
 	beforeEach(() => {
-		angular.module('templates', []);
+		angular.module('nAddContent.templates', []);
 		module('nAddContent');
 		module(($exceptionHandlerProvider) => {
 			$exceptionHandlerProvider.mode('log');

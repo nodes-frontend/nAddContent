@@ -1,7 +1,7 @@
 namespace nAddContent {
 	'use strict';
 	
-	const dependencies = ['templates'];
+	const dependencies = ['nAddContent.templates'];
 
 	angular.module('nAddContent', dependencies);
 }
