@@ -1,4 +1,4 @@
-# nAddContent
+# ⛔️ [DEPRECATED] nAddContent
 [![Build Status](https://travis-ci.org/nodes-frontend/nAddContent.svg?branch=master)](https://travis-ci.org/nodes-frontend/nAddContent) [![Coverage Status](https://coveralls.io/repos/github/nodes-frontend/nAddContent/badge.svg?branch=master)](https://coveralls.io/github/nodes-frontend/nAddContent?branch=master)
 
 Add's content based on specified template
